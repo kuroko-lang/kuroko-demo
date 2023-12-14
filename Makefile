@@ -1,0 +1,3 @@
+LDLIBS = -lkuroko
+
+all: demo
